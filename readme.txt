@@ -4,3 +4,7 @@ git has a mutable index called stage
 git tracks changes
 
 i have  a new reposity
+
+Creating a new branch is quick.
+
+add merge
